@@ -158,7 +158,6 @@ body {
     box-shadow: 0 7px #1a7940;
   }
   
-  /* messageクラスがクリックされているときのCSSを指定してください */
   .message:active {
     box-shadow: none;
     position: relative;
